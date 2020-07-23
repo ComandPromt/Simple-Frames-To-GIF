@@ -19,9 +19,15 @@ sudo apt install python-imageio
 
 ![Preview](1.png)
 
+## Run program
+
 ![Preview](2.png)
 
+# Folder called output created
+
 ![Preview](3.png)
+
+# Enjoy!
 
 ![Preview](4.png)
 
